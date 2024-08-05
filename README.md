@@ -29,3 +29,4 @@ Trabajos realizados
      * juego de piedra, papel y tijera
   * arraysEjercicios [https://github.com/AntoniaPuertas/Arrays-ejercicios]
      * Ejercicios para practicar con arrays y sus métodos
+     * Ejercicios resueltos [https://github.com/AntoniaPuertas/arrays-ejercicios-resuelto]
