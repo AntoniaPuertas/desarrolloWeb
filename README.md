@@ -27,3 +27,5 @@ Trabajos realizados
    * ejemplos de utilización de JavaScript
   * piedraPapelTijera [https://github.com/AntoniaPuertas/piedraPapelTijera/tree/main]
      * juego de piedra, papel y tijera
+  * arraysEjercicios [https://github.com/AntoniaPuertas/Arrays-ejercicios]
+     * Ejercicios para practicar con arrays y sus métodos
