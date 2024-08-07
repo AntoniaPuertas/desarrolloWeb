@@ -31,3 +31,4 @@ Trabajos realizados
      * Ejercicios para practicar con arrays y sus métodos
      * Ejercicios resueltos [https://github.com/AntoniaPuertas/arrays-ejercicios-resuelto]
   * validaciones de formulario [https://github.com/AntoniaPuertas/validaciones-formulario-init]
+  * Utilidades HTML, CSS y JavaScript [https://github.com/AntoniaPuertas/UtilidadesJs]
