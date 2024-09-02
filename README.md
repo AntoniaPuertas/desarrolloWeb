@@ -94,6 +94,10 @@ Trabajos realizados
   2.16 Fetch API [https://github.com/AntoniaPuertas/Fetch-ejercicios]  
   
     * Ejemplo básico de Fetch para practicar con javascript
+
+  2.17 TheMovieDB [https://github.com/AntoniaPuertas/TheMovieDB-Ejercicio]
+
+    * App en html, css y javascript que consume la api themoviedb
     
     
     
